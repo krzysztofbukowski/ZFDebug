@@ -436,7 +436,7 @@ class ZFDebug_Controller_Plugin_Debug extends Zend_Controller_Plugin_Abstract
         #ZFDebug_offset {height:'.$boxheight.'px}
         #ZFDebug {height:'.$boxheight.'px; width:100%; background:#262626;
                         font: 12px/1.4em Lucida Grande, Lucida Sans Unicode, sans-serif;
-                        position:fixed; bottom:0px; left:0px; color:#FFF; background:#000000;
+                        position:fixed; bottom:0px; left:0px; color:#FFF;
                         z-index:2718281828459045;}
         #ZFDebug p {margin:1em 0}
         #ZFDebug a {color:#FFFFFF}
